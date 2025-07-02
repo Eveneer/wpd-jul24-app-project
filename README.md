@@ -22,9 +22,8 @@ We estimate the total time required to complete the project is **8–12 hours**,
 
 **Objective:** Replicate the following Figma designs using only existing Elementor widgets.
 
-- [**📱 Mobile Design:**](https://www.figma.com/proto/hy9pL97ycIi1G5m0WvzW0Q/CH-Arch-Academy?page-id=152%3A1787&node-id=152-1788)
-
-- [**💻 Desktop Design:**](https://www.figma.com/proto/hy9pL97ycIi1G5m0WvzW0Q/CH-Arch-Academy?page-id=104%3A174&node-id=141-273)
+- [**📱 Mobile Design**](https://www.figma.com/proto/hy9pL97ycIi1G5m0WvzW0Q/CH-Arch-Academy?page-id=152%3A1787&node-id=152-1788)
+- [**💻 Desktop Design**](https://www.figma.com/proto/hy9pL97ycIi1G5m0WvzW0Q/CH-Arch-Academy?page-id=104%3A174&node-id=141-273)
 
 ### Rules
 
@@ -73,7 +72,7 @@ We estimate the total time required to complete the project is **8–12 hours**,
      - Setup instructions
      - Any assumptions or special notes
 3. Add **`even-devs`** to the repository as a **collaborator**
-4. Submit your **repository link** via the application form or email
+4. Submit your **repository link** with the application form
 
 ---
 
